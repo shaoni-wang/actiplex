@@ -1,4 +1,3 @@
-This is a for gaming polarisation based on agent based model.
 Here are the links to the online models: 
 1. https://shaoni-wang.github.io/actiplex/Gaming-Polarisation-Simple.html
 2. https://shaoni-wang.github.io/actiplex/Model%201-Gaming-Polarisation.html
