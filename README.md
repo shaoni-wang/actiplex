@@ -1,17 +1,18 @@
 Here are the links to the online models: 
-https://shaoni-wang.github.io/actiplex/Model%201-experiment%201.html
 
-https://shaoni-wang.github.io/actiplex/Model%201-experiment%202.html
+https://shaoni-wang.github.io/actiplex/Model1-experiment1.html
 
-https://shaoni-wang.github.io/actiplex/Model%201-experiment%203.html
+https://shaoni-wang.github.io/actiplex/Model1-experiment2.html
 
-https://shaoni-wang.github.io/actiplex/Model%201-experiment%204.html
+https://shaoni-wang.github.io/actiplex/Model1-experiment3.html
 
-https://shaoni-wang.github.io/actiplex/Model%202-experiment%205.html
+https://shaoni-wang.github.io/actiplex/Model1-experiment4.html
 
-https://shaoni-wang.github.io/actiplex/Model%202-experiment%206.html
+https://shaoni-wang.github.io/actiplex/Model2-experiment5.html
 
-https://shaoni-wang.github.io/actiplex/Model%203-experiment%207.html
+https://shaoni-wang.github.io/actiplex/Model2-experiment6.html
 
-https://shaoni-wang.github.io/actiplex/Model%204-experiment%208.html
+https://shaoni-wang.github.io/actiplex/Model3-experiment7.html
+
+https://shaoni-wang.github.io/actiplex/Model4-experiment8.html
 
